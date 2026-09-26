@@ -1,0 +1,14 @@
+# runtime artifacts (generated on device)
+boot_count
+guard.log
+good_modules.list
+frozen_modules.log
+.whitelist.norm
+.good_modules.tmp
+
+# build output
+*.zip
+
+# OS / editor
+Thumbs.db
+.DS_Store
