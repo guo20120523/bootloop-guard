@@ -100,7 +100,7 @@ mv /data/system/users/0/package-restrictions.xml.bak-bootloopguard \
 
 ## 安装方法（推荐用 Magisk App）
 
-1. 把 `bootloop_guard_v2.0.0-NEXT.zip` 拷到手机；
+1. 从 [Releases](https://github.com/guo20120523/bootloop-guard/releases/latest) 页面下载 `bootloop_guard_v2.0.0-NEXT.zip`，拷到手机；
 2. 打开 **Magisk** → **模块** → **从本地安装** → 选择该 zip；
 3. 安装完成后**重启手机**即生效。
 
