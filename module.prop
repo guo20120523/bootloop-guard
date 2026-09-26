@@ -1,0 +1,6 @@
+id=bootloop_guard
+name=Bootloop Guard（开机失败自动进REC）
+version=v2.0.0-NEXT
+versionCode=200
+author=昱yu(QQ:3895958954)
+description=专为无音量加减键设备设计的全新一代自动救砖模块：连续3次开机失败或卡开机动画超2分钟时，自动冻结嫌疑模块（精准识别+白名单）、解冻APP后台限制，再重启进入Recovery，全程免按键。开机成功自动清零并更新模块清单。参数见config.conf。
